@@ -1,9 +1,6 @@
 # PAL-PL-Project2-C-C-grammer-interpreter
 一款類C語言文法檢查直譯器，能夠判斷是否符合文法，以及儲存變數或是函式名稱、內容與型別。
 
-# 結果圖
-![圖](https://user-images.githubusercontent.com/95120819/192146408-e86b9613-5523-46e1-815f-b158ebcf956b.png)
-
 # 簡易版C語言Interpreter
 使用語言:C++
 編譯器:VisualStudioCode
@@ -25,10 +22,8 @@
 而不是一邊檢查文法一邊運算
 9. 變數宣告可以判別出是否有宣告過
 
-# input
-[input.txt](https://github.com/q86865511/PAL-PL-Project2-C-C-grammer-interpreter/files/9640879/input.txt)
-# output結果圖
-[output.txt](https://github.com/q86865511/PAL-PL-Project2-C-C-grammer-interpreter/files/9640880/output.txt)
+# 結果圖
+![圖](https://user-images.githubusercontent.com/95120819/192146408-e86b9613-5523-46e1-815f-b158ebcf956b.png)
 
 # 備註
 第二次最後一題未通過，可能原因為ListFuction的格式問題
