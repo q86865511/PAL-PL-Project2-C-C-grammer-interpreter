@@ -1,0 +1,24 @@
+# C/C++ 編譯產物
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dll
+*.exe
+*.out
+a.out
+build/
+bin/
+obj/
+
+# 偵錯 / IDE
+*.pdb
+*.ilk
+.vs/
+.vscode/
+*.user
+
+# 系統
+.DS_Store
+Thumbs.db
